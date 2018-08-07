@@ -1,2 +1,2 @@
 # PyBasics
-Summarize most commonly used techniques, easy for search
+Summarize most commonly used Python techniques, easy for search
